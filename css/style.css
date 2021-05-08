@@ -1,0 +1,28 @@
+*{
+	font-weight: normal;
+	font-weight: bold;
+	font-size: x-large;
+}
+table,tr,td{
+	width: 100%;
+	border: 2px solid #000;
+}
+#col1{
+	width: 30%;
+}
+#col2{
+	width: 40%;
+}
+#table1{
+	text-align: center;
+}
+#col3{
+	width: 25%;
+}
+#col4{
+	width: 70%;
+}
+th{
+	text-align: center;
+	background-color: #c5e0b3;
+}
